@@ -12,4 +12,3 @@ server.use(express.json());
 server.use(routes);
 
 server.listen(3333);
-//teste
